@@ -1,0 +1,2 @@
+本文档为vimscript上的python语法高亮插件，放在github上只为自己方便管理
+vim插件
